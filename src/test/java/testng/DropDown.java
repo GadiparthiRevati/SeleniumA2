@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class DropDown {
 	@Test
 	public void dropDownTest() {
-		
+		//initializing
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
