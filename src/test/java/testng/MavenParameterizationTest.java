@@ -1,7 +1,7 @@
 package testng;
 
 import org.testng.annotations.Test;
-
+//maven
 public class MavenParameterizationTest {
 	@Test
 	public void parameterizationTest() {
