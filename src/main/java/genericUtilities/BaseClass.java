@@ -11,7 +11,7 @@ import org.testng.asserts.SoftAssert;
 import objectRepositories.HomePage;
 import objectRepositories.LoginPage;
 import objectRepositories.PageObjectManager;
-
+//base class
 public class BaseClass {
 	// BeforeSuite
 	// BeforeTest
